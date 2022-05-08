@@ -1,5 +1,5 @@
 ## About the project 
-A simple web scraping project named after [BoardGeekGame plataform](https://boardgamegeek.com/). The records were extracted through Scrapy, a Python framework.
+A simple web scraping project named after [BoardGameGeek plataform](https://boardgamegeek.com/). The records were extracted through Scrapy, a Python framework.
 
 ## Command list
 *`scrapy startproject boardgamegeek`
